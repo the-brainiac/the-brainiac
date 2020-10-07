@@ -7,7 +7,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-the_brainiac-green?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/the_brainiac_/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=the-brainiac.the-brainiac)
   
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" />  
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" />  
+
 
 
 ## 📈 My GitHub Stats
@@ -28,7 +28,7 @@
 
 <p align="center"> 
 	<a href="https://github.com/the-brainiac">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac&theme=gotham" />
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac&theme=gotham" />
 	</a>
 	<a href="https://github.com/the-brainiac/">
 	  <img src="https://github-readme-stats.vercel.app/api?username=the-brainiac&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Shivshanker's GitHub Stats" />
