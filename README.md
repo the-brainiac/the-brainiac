@@ -7,7 +7,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-the_brainiac-green?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/the_brainiac_/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=the-brainiac.the-brainiac)
   
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" />  
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" /> 
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
