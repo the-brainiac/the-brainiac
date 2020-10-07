@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img align="right" alt="GIF" src="https://github.com/the-brainiac/the-brainiac/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/the-brainiac/the-brainiac/code.gif?raw=true" width="500" height="320" />
 
 
 ## 📈 My GitHub Stats
