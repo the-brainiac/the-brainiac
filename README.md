@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-the--brainiac-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-brainiac/)
 [![Gmail](https://img.shields.io/badge/Gmail-Shivshanker-blue?&style=flat-square&logo=gmail&logoColor=red)](mailto:shiv71290@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-shiv__solanki____-orange?&style=flat-square&logo=instagram&logoColor=orange)](https://www.instagram.com/shiv_solanki__/)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-shiv__solanki____-orange?&style=flat-square&logo=instagram&logoColor=orange)](https://www.instagram.com/shiv_solanki__/)-->
 [![HackerRank](https://img.shields.io/badge/HackerRank-the_brainiac-green?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/the_brainiac_/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=the-brainiac.the-brainiac)
   
