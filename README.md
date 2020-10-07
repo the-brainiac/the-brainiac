@@ -7,7 +7,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-the_brainiac-green?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/the_brainiac_/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=the-brainiac.the-brainiac)
   
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" /> 
+<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" /> -->
 
 
 ## 🔧 Technologies & Tools
@@ -25,9 +25,6 @@
 
 
 ## 📈 My GitHub Stats
-<details>
-<summary></summary>
-
 <p align="center"> 
 	<a href="https://github.com/the-brainiac">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac&theme=gotham" />
@@ -35,5 +32,3 @@
 	<a href="https://github.com/the-brainiac/">
 	  <img src="https://github-readme-stats.vercel.app/api?username=the-brainiac&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Shivshanker's GitHub Stats" />
 	</a>
-
-</details>
