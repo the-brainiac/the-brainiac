@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img align="right" alt="GIF" src="https://github.com/the-brainiac/the-brainiac/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" />  
 
 
 ## 📈 My GitHub Stats
@@ -31,7 +31,7 @@
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac&theme=gotham" />
 	</a>
 	<a href="https://github.com/the-brainiac/">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-brainiac&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Shivshanker's GitHub Stats" />
+	  <img src="https://github-readme-stats.vercel.app/api?username=the-brainiac&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Shivshanker's GitHub Stats" />
 	</a>
 
 </details>
