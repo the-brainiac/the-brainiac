@@ -29,10 +29,10 @@
 
 ## 📈 My GitHub Stats
 <p align="center"> 
-	<a href="https://github.com/the-brainiac">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac" />
-	</a>
 	<a href="https://github.com/the-brainiac/">
 	  <img src="https://github-readme-stats.vercel.app/api?username=the-brainiac&show_icons=true&line_height=27&count_private=true" alt="Shivshanker's GitHub Stats" />
+	</a>
+	<a href="https://github.com/the-brainiac">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac" />
 	</a>
 </p>
