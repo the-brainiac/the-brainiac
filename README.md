@@ -31,7 +31,6 @@
 <p align="center"> 
 	<a href="https://github.com/the-brainiac/">
 	  <img src="https://github-readme-stats.vercel.app/api?username=the-brainiac&show_icons=true&line_height=27&count_private=true&custom_title=Shivshanker's%20GitHub%20Stats" alt="Shivshanker's GitHub Stats" />
-
 	</a>
 	<a href="https://github.com/the-brainiac">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac&hide=javascript&custom_title=Most%20Used%20Languages%20and%20Tools&card_width=400" />
