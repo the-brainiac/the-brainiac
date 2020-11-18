@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-the--brainiac-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-brainiac/)
 [![Gmail](https://img.shields.io/badge/Gmail-Shivshanker-blue?&style=flat-square&logo=gmail&logoColor=red)](mailto:shiv71290@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-the_brainiac-darkgreen?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/the_brainiac_/)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-the_brainiac-purple?&style=flat-square&logo=hackerearth&logoColor=light-purple)](https://www.hackerearth.com/@the-brainiac)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-the_brainiac-purple?&style=flat-square&logo=hackerearth&logoColor=light-purple)](https://www.hackerearth.com/@the_brainiac)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-the_brainiac-green?&style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/the_brainiac/profile)
 [![CodeChef](https://img.shields.io/badge/CodeChef-the_brainiac-brown?&style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/the_brainiac)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=the-brainiac.the-brainiac)
